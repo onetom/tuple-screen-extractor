@@ -1,5 +1,7 @@
 # tuple-screen-extractor
 
+**English** | [Magyar](README.hu.md)
+
 Extract every shared-screen frame from a [Tuple](https://tuple.app) call into
 JPEGs — plus a timestamped index and, optionally, a watchable video.
 
